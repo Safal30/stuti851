@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stuti Upreti</h1>
-<h3 align="center">A enthusiast in a field of programming</h3>
+<h3 align="center">A enthusiast in a field of programming. Just started learning C# for Unity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stuti851&label=Profile%20views&color=0e75b6&style=flat" alt="stuti851" /> </p>
 
